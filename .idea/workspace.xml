@@ -13,6 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7abc7bb4-52bf-4c4d-a563-777ca34ca453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/fftools" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -62,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610330552827</updated>
       <workItem from="1610330554282" duration="5347000" />
-      <workItem from="1610345241994" duration="613000" />
+      <workItem from="1610345241994" duration="2111000" />
     </task>
     <servers />
   </component>
@@ -114,6 +116,14 @@
     </state>
     <state width="1638" height="278" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1610337816023" />
     <state width="1638" height="278" key="GridCell.Tab.1.right/0.25.1680.949@0.25.1680.949" timestamp="1610337853428" />
+    <state x="349" y="161" key="SettingsEditor" timestamp="1610347040230">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="161" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1610347040230" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1610346970587">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="248" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1610346970587" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
