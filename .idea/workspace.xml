@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ffmpegDev" targetName="ffmpegDev" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7abc7bb4-52bf-4c4d-a563-777ca34ca453" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mu5I8ioM9oAz6jraBa3jm1CLn2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fftools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fftools" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ffmpegDev" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ffmpegDev" TARGET_NAME="ffmpegDev" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ffmpegDev" RUN_TARGET_NAME="ffmpegDev">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7abc7bb4-52bf-4c4d-a563-777ca34ca453" name="Default Changelist" comment="" />
+      <created>1610330552827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610330552827</updated>
+      <workItem from="1610330554282" duration="5347000" />
+      <workItem from="1610345241994" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610333933586">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1610333933586" />
+    <state width="1638" height="173" key="GridCell.Tab.0.bottom" timestamp="1610345929203">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="173" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1610345929203" />
+    <state width="1638" height="278" key="GridCell.Tab.0.bottom/0.25.1680.949@0.25.1680.949" timestamp="1610337853427" />
+    <state width="1638" height="173" key="GridCell.Tab.0.center" timestamp="1610345929201">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="173" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1610345929201" />
+    <state width="1638" height="278" key="GridCell.Tab.0.center/0.25.1680.949@0.25.1680.949" timestamp="1610337853427" />
+    <state width="1638" height="173" key="GridCell.Tab.0.left" timestamp="1610345929200">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="173" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1610345929200" />
+    <state width="1638" height="278" key="GridCell.Tab.0.left/0.25.1680.949@0.25.1680.949" timestamp="1610337853426" />
+    <state width="1638" height="173" key="GridCell.Tab.0.right" timestamp="1610345929202">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="173" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1610345929202" />
+    <state width="1638" height="278" key="GridCell.Tab.0.right/0.25.1680.949@0.25.1680.949" timestamp="1610337853427" />
+    <state width="1638" height="278" key="GridCell.Tab.1.bottom" timestamp="1610337853429">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1610337816023" />
+    <state width="1638" height="278" key="GridCell.Tab.1.bottom/0.25.1680.949@0.25.1680.949" timestamp="1610337853429" />
+    <state width="1638" height="278" key="GridCell.Tab.1.center" timestamp="1610337853428">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1610337816023" />
+    <state width="1638" height="278" key="GridCell.Tab.1.center/0.25.1680.949@0.25.1680.949" timestamp="1610337853428" />
+    <state width="1638" height="278" key="GridCell.Tab.1.left" timestamp="1610337853428">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1610337816022" />
+    <state width="1638" height="278" key="GridCell.Tab.1.left/0.25.1680.949@0.25.1680.949" timestamp="1610337853428" />
+    <state width="1638" height="278" key="GridCell.Tab.1.right" timestamp="1610337853428">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1610337816023" />
+    <state width="1638" height="278" key="GridCell.Tab.1.right/0.25.1680.949@0.25.1680.949" timestamp="1610337853428" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/metadata.c</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/avio_reading.c</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/fftools/ffplay.c</url>
+          <line>3673</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

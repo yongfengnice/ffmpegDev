@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yfsu/CLionProjects/ffmpegDev/avio_reading.h
+
+/Users/yfsu/CLionProjects/ffmpegDev/ffplay.h
+
+/Users/yfsu/CLionProjects/ffmpegDev/main.cpp
+iostream
+-
+string
+-
+metadata.h
+/Users/yfsu/CLionProjects/ffmpegDev/metadata.h
+avio_reading.h
+/Users/yfsu/CLionProjects/ffmpegDev/avio_reading.h
+ffplay.h
+/Users/yfsu/CLionProjects/ffmpegDev/ffplay.h
+
+/Users/yfsu/CLionProjects/ffmpegDev/metadata.h
+
